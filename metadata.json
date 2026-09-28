@@ -1,0 +1,6 @@
+{
+  "name": "StudentQR Attendance",
+  "description": "Student registration with QR code generation, WhatsApp share, printing, QR attendance scanning, and monthly fee tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
